@@ -10,26 +10,24 @@
 
 
 ### 👤 Who I AM 💬
-Hello! My name is Yjin Lee :)
-
+Hello! My name is Yjin Lee :) <br>
 I learn `Front-end` Development.
 
 <br>
 
 ### 🚀 Skills 
 > What I Learned, or Learning!
-
-- `JavaScript`
-- `React`
-- `Redux`
-- `Firebase`
-- `Node + npm`
-- `webpack/babel`
-- `Next JS`
-- `CSS`
-- `BootStrap`
-- `SCSS/SASS`
-- `Styled-component`
+> 
+>`JavaScript`,
+`React`,
+`Redux`,
+`Firebase`,
+`Node + npm`,
+`webpack/babel`,
+`CSS`,
+`BootStrap`,
+`SCSS/SASS`,
+`Styled-component`
 
 <br>
 
