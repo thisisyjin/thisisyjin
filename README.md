@@ -1,1 +1,58 @@
-# ThisisYjin
+# thisisyjin
+
+<br>
+
+```js
+( this ) => { yjin }
+```
+
+<br>
+
+
+### 👤 Who I AM 💬
+Hello! My name is Yjin Lee :)
+
+I learn `Front-end` Development.
+
+<br>
+
+### 🚀 Skills 
+> What I Learned, or Learning!
+
+- `JavaScript`
+- `React`
+- `Redux`
+- `Firebase`
+- `Node + npm`
+- `webpack/babel`
+- `Next JS`
+- `CSS`
+- `BootStrap`
+- `SCSS/SASS`
+- `Styled-component`
+
+<br>
+
+### 🌟 I'll BE ... 
+
+- Prioritizing user's convenience
+- Innovating in style
+- Enjoying learning new things
+- Caring more about performance optimization
+
+
+<br>
+
+### 📍 My Blogs
+
+> [Dev Blog](https://mywebproject.tistory.com)
+> - Dev study / Project Archiving
+
+
+> [Velog](https://velog.io/@thisisyjin)
+> - TIL (Today I Learned) / Dev Log 
+
+
+> [Life Log](https://blog.naver.com/hnesb970)
+> - Certification / LifeStyle / etc.
+
