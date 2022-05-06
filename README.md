@@ -9,16 +9,10 @@
 <br>
 
 
-### 👤 Who I AM 💬
-Hello! My name is Yjin Lee :) <br>
-I learn `Front-end` Development.
-
-<br>
-
 ### 🚀 Skills 
 > What I Learned, or Learning!
 > 
->`JavaScript`,
+`JavaScript`,
 `React`,
 `Redux`,
 `Firebase`,
@@ -33,10 +27,7 @@ I learn `Front-end` Development.
 
 ### 🌟 I'll BE ... 
 
-- Prioritizing user's convenience
-- Innovating in style
-- Enjoying learning new things
-- Caring more about performance optimization
+- `Prioritizing user's convenience` / `Innovating in style` / `Enjoying learning new things` / `Caring more about performance optimization`
 
 
 <br>
