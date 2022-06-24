@@ -38,8 +38,8 @@
 
 ### 🌐 Blogs
 <a href="https://velog.io/@thisisyjin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> 
-<a href="https://velog.io/@thisisyjin" target="_blank"><img src="https://img.shields.io/badge/Tistory-0066ff?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-<a href="https://velog.io/@thisisyjin" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://mywebproject.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-0066ff?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<a href="https://blog.naver.com/hnesb970" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 
